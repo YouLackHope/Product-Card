@@ -1,0 +1,95 @@
+
+
+html {
+    background-color: #f3ebe4;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 25vw;
+    padding-top: 120px;
+}
+
+img {
+    height: 30vw;
+    width: 20vw;
+}
+
+p span {
+    display: block;
+    font-size: 14px;
+    font-family: Montserrat;
+    color: #cfced1;
+}
+
+h1 {
+    font-family: Fraunces;
+}
+
+h1 span {
+    display: block;
+}
+
+svg {
+    margin-right: 10px;
+}
+
+.information {
+    background-color: white;
+    display: block;
+    height: 30vw;
+    width: 20vw;
+    padding-left: 20px;
+    overflow: hidden;
+}
+
+.ig-head {
+    letter-spacing: 4px;
+    font-family: Montserrat;
+    font-size: 15px;
+}
+
+.p1 {
+    color: #3e8167;
+    float: left;
+    font-family: Fraunces;
+    font-size: 20px;
+}
+
+.p2 {
+    color: #cfced1;
+    float: right;
+    display: block;
+    font-size: 15px;
+    margin-right: 50px;
+    text-decoration: line-through;
+}
+
+.price {
+    display: block;
+}
+
+.btn {
+    position: absolute;
+    font-family: Fraunces;
+    display: block;
+    width: 200px;
+    height: 40px;
+    margin-left: 15px;
+    margin-right: 45px;
+    margin-top: 90px;
+    overflow: hidden;
+    background-color: #3e8167;
+    border: none;
+    padding: 5px;
+    border-radius: 10px;
+    color: white;
+}
+
+.btn:hover {
+    background-color: #023020;
+    border: none;
+    color: white;
+}
